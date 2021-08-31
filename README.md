@@ -1,1 +1,1 @@
-# Image Recognition of Trash Objects                                                                                                            ![image
+# Image Recognition of Trash Objects
